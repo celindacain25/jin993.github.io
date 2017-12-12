@@ -10,7 +10,7 @@ layout: default
 
 # Profile 
 
-### Jin Heo
+### | Jin Heo | Image |
 * * *
 
 | head1        | head two          | three |
@@ -21,6 +21,13 @@ layout: default
 | ok           | good `zoute` drop | yumm  |
 
 * * *
+
+
+
+
+
+
+
 
 There should be whitespace between paragraphs.
 
