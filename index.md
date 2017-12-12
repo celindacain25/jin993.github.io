@@ -3,25 +3,26 @@ layout: default
 ---
 
 # Project Lists
-## Projects in Progress
+### Projects in Progress
 1. A
 2. B
 3. C
 4. D
 
-## Completed Projects
+### Completed Projects
 1. [Link to C Basic Tutorial](pages/ctutorial)
 2. project2 
 3. project3 
 4. project4 
 
-* * *
-# Profile 
 
+# Profile 
 ### Jin Heo
 Short descripton about me...
 
-#### Experience
+### Education
+
+### Experience
 * * *
 
 | Year         | head two          | three |
@@ -39,14 +40,6 @@ Short descripton about me...
 
 
 
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# [](#header-1)Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## [](#header-2)Header 2
 
