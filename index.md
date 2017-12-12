@@ -2,20 +2,27 @@
 layout: default
 ---
 
+Welcome to Re-searchIT.com
+
 # Project Lists
 ### Projects in Progress
-1. A
-2. B
-3. C
-4. D
+|  [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |
+|  [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |
+|  [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |
 
 ### Completed Projects
-1. [Link to C Basic Tutorial](pages/ctutorial)
-2. project2 
-3. project3 
-4. project4 
+|  [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |
+|  [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |
+|  [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |
+
+# Study
+|  [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |
+|  [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |
+|  [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |
 
 
+
+/*
 # Profile 
 ### Jin Heo
 Short descripton about me...
@@ -23,16 +30,15 @@ Short descripton about me...
 ### Education
 
 ### Experience
-* * *
 
+|:-------------|:------------------|:------|
 | Year         | head two          | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
-
-* * *
+|:-------------|:------------------|:------|
 
 
 
@@ -143,3 +149,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+*/
