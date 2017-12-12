@@ -3,17 +3,28 @@ layout: default
 ---
 
 # Project Lists
+## Projects in Progress
+1. A
+2. B
+3. C
+4. D
+
+## Completed Projects
 1. [Link to C Basic Tutorial](pages/ctutorial)
 2. project2 
 3. project3 
 4. project4 
 
+* * *
 # Profile 
 
-### | Jin Heo | Image |
+### Jin Heo
+Short descripton about me...
+
+#### Experience
 * * *
 
-| head1        | head two          | three |
+| Year         | head two          | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
