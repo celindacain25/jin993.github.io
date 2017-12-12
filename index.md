@@ -6,20 +6,25 @@ Welcome to Re-searchIT.com
 
 # Project Lists
 ### Projects in Progress
+|:---------------------------------------------|:----------------------------------------------|:----------------------------------------------|
 |  [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |
 |  [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |
 |  [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |
+|:---------------------------------------------|:----------------------------------------------|:----------------------------------------------|
 
 ### Completed Projects
+|:---------------------------------------------|:----------------------------------------------|:----------------------------------------------|
 |  [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |
 |  [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |
 |  [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |
+|:---------------------------------------------|:----------------------------------------------|:----------------------------------------------|
 
 # Study
+|:---------------------------------------------|:----------------------------------------------|:----------------------------------------------|
 |  [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |
 |  [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |
 |  [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |
-
+|:---------------------------------------------|:----------------------------------------------|:----------------------------------------------|
 
 
 /*
