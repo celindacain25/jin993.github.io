@@ -2,8 +2,23 @@
 layout: default
 ---
 
-Project Pages
-[Link to C Basic Tutorial](pages/ctutorial).
+# Project Pages
+
+## [Link to C Basic Tutorial](pages/ctutorial)
+## project2 
+## project3 
+## project4 
+
+# Profile 
+## Jin Heo
+* * *
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+* * *
 
 There should be whitespace between paragraphs.
 
@@ -50,12 +65,7 @@ end
 
 ###### [](#header-6)Header 6
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+
 
 ### There's a horizontal rule below this.
 
