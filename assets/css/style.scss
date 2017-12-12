@@ -1,4 +1,9 @@
 ---
 ---
+@import "{{ site.theme }}";
+
+header {
+  display: none;
+}
 
 @import 'jekyll-theme-hacker';
