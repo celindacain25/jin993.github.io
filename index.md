@@ -2,9 +2,8 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-[Link to another page](another-page).
+Project Pages
+[Link to C Basic Tutorial](pages/ctutorial).
 
 There should be whitespace between paragraphs.
 
