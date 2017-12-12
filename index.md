@@ -2,22 +2,24 @@
 layout: default
 ---
 
-# Project Pages
-
-## [Link to C Basic Tutorial](pages/ctutorial)
-## project2 
-## project3 
-## project4 
+# Project Lists
+1. [Link to C Basic Tutorial](pages/ctutorial)
+2. project2 
+3. project3 
+4. project4 
 
 # Profile 
-## Jin Heo
+
+### Jin Heo
 * * *
+
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
+
 * * *
 
 There should be whitespace between paragraphs.
