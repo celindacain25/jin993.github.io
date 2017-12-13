@@ -10,65 +10,31 @@ Short descripton about me...
 
 ### Education
 
+* * *
+
+| Grad Year | Educational Institution                                                                                     |
+|:----------|:------------------------------------------------------------------------------------------------------------|
+| 2018      | Ajou Univeristy, South Korea,  Undergraduate of Science of Software (Transfered to)                         |
+| 2015      | Chungkang College of Cultural Industries, South Korea,  Department of Computer Games (Transfered from)      |
+| 2011      | Chungdahm High School of Information & Communication, South Korea, Department of Computer Network           | 
+
+* * * 
+
 ### Experience
 
 * * * 
 
-| Year         | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Period              | Association                                                             |  Position                   |
+|:--------------------|:------------------------------------------------------------------------|:----------------------------|
+| June-Dec 2017       | University California, Irvine, The United States                        | Undergraduate Researcher    |
+| Mar-July 2017       | Ajou Computer Communications Lab, South Korea                           | Undergraduate Researcher    |
+| Jan-Mar  2017       | Commonwealth Scientific and Industrial Research Organisation, Australia | Undergraduate Researcher    |
+| Aug-Dec  2016       | Ajou University, South Korea                                            | Undergraduate Researcher    |
+| Oct 2013 - May 2014 | YBM Language Institutes, South Korea                                    | Teaching Assistant          |
+| Aug-Dec 2010        | LG Electronics Mobile Communications, South Korea                       | Assembly Staff              |
 
 * * * 
 
 # [Project Lists](./project/pmain)
 
 # [Study](./study/smain)
-
-
-## [](#header-2)Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### [](#header-3)Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
