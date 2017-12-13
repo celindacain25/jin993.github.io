@@ -25,5 +25,18 @@ Decision making is really important challenge. To tackle this, task decompositio
 - Terrain analysis
 - Intelligence gathering
 In this paper, the researches of each category are introduced.
+- Strategy 
+	- Hard cod approach
+		- FSM(Finite State Machine)
+		- CBP(Case Based Planning)
+	- Machine learning approach
+		- Supervised learning
+		- Semi-supervised learning
+		- Unsupervised learning
+		- CBR(Case Based Reasoning)
+- Tactics : by using map information. 
+- Reactive Control
+	- Path finding
+	- Avoid obstacles, opponent fire, and stay at maximum shooting distance
 
 I think that decision making is most important for making AI players, and strategy is the most important for decision making. I played Starcraft 1 during my high school days to be a programmer, so I well know Starcraft 1. After mastering the basic of Starcraft such as spending resources, making supply buildings, and training the army continuously, the player who want to win the game should make right decisions at the right time. So, I'll focus on theses to make AI player like a human, eventhough the AI player's tactics or reactive control is not great.
