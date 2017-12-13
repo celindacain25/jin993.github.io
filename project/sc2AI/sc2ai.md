@@ -1,9 +1,10 @@
 ---
 layout: default
 ---
+[back](../pmain){: .btn.btn-default}
 
 # Starcraft 2 AI Project
-[back](../pmain)
+
 
 In this research, Starcraft 2 AI API is used to make AI like a human player.
 

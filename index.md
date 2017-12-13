@@ -4,6 +4,8 @@ layout: default
 
 Welcome to Re-searchNew.com
 
+[Project Lists](./project/pmain){: .btn.btn-default}     [Study](./study/smain){: .btn.btn-default}
+
 # Profile 
 ### Jin Heo
 I'm an undergraduate student in Software Department, Ajou Univ. I'm trying to get rid of my prejudice towards something new. To be a good researcher, I do my best to be creative and reasonable. If I make a half-hearted effort to my work, I won't bet my life on it.
@@ -39,6 +41,3 @@ No sweet without sweat.
 | Aug-Dec 2010        | LG Electronics Mobile Communications, South Korea                       | Assembly Staff              |
 
 
-# [Project Lists](./project/pmain)
-
-# [Study](./study/smain)
