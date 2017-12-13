@@ -13,17 +13,20 @@ Short descripton about me...
 ### Experience
 
 * * * 
+
 | Year         | head two          | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
+
 * * * 
 
-# [Project](_about/project)
 
-# [Study](_about/study)
+# [Project Lists](_projects/projects)
+
+# [Study](_study/study)
 
 
 
