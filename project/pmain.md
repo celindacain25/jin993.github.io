@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[back](../pmain){: .btn.btn-default}
+[back](../){: .btn.btn-default}
 
 # Project Lists
 
