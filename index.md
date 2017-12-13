@@ -19,9 +19,9 @@ No sweet without sweat.
 
 | Grad Year | Educational Institution                                                                                     |
 |:----------|:------------------------------------------------------------------------------------------------------------|
-| 2018      | Ajou University, South Korea,  Undergraduate of Science of Software (Transfered to)                         |
-| 2015      | Chungkang College of Cultural Industries, South Korea,  Department of Computer Games (Transfered from)      |
-| 2011      | Chungdahm High School of Information & Communication, South Korea, Department of Computer Network           | 
+| 2018      | Ajou University, Undergraduate of Science of Software (Transfered to), South Korea                          |
+| 2015      | Chungkang College of Cultural Industries, Department of Computer Games (Transfered from), South Korea       |
+| 2011      | Chungdahm High School of Information & Communication, Department of Computer Network, South Korea           | 
 
 
 
