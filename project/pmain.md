@@ -5,7 +5,7 @@ layout: default
 # Project Lists
 
 ## Projects in Progress
-1. [Starcraft 2 AI](./)
+1. [Starcraft 2 AI](./sc2AI/sc2ai.md)
 1. [Operating System Development on Raspberry Pi 3](./)
 
 ## Completed Project
