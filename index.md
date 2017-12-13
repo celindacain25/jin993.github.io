@@ -24,9 +24,9 @@ Short descripton about me...
 * * * 
 
 
-# [Project Lists](_projects/projects)
+# [Project Lists](_projects/projects.md)
 
-# [Study](_study/study)
+# [Study](_study/study.md)
 
 
 
