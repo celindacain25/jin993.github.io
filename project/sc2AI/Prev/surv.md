@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Zero-Player Games
-[back](../sc2ai){:.text-right}
+<right>[back](../sc2ai)</right>
 
 [paper link](http://ieeexplore.ieee.org/document/6637024/){: target="_blank"}
 
