@@ -2,10 +2,12 @@
 layout: default
 ---
 
-Welcome to Re-searchIT.com
+Welcome to Re-searchNew.com
 
 # Profile 
 ### Jin Heo
+I'm an undergraduate student in Software Department, Ajou Univ. I'm trying to get rid of my prejudice towards something new. To be a good researcher, I do my best to be creative and reasonable. If I make a half-hearted effort to my work, I won't bet my life on it.
+
 You will feel at ease when you give up. 
 However, don't give up for the moment of comfort.
 Don't blame others.
