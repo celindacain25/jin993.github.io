@@ -4,28 +4,18 @@ layout: default
 
 Welcome to Re-searchIT.com
 
-# Project Lists
-### Projects in Progress
-|-------------------------|--------------------------|--------------------------|
-|  [ttt](pages/ctutorial) |   [ttt](pages/ctutorial) |   [ttt](pages/ctutorial) |
-|  [ttt](pages/ctutorial) |   [ttt](pages/ctutorial) |   [ttt](pages/ctutorial) |
-|  [ttt](pages/ctutorial) |   [ttt](pages/ctutorial) |   [ttt](pages/ctutorial) |
-|-------------------------|--------------------------|--------------------------|
-
-### Completed Projects
-|:---------------------------------------------|:----------------------------------------------|:----------------------------------------------|
-|  [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |
-|  [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |
-|  [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |
-|:---------------------------------------------|:----------------------------------------------|:----------------------------------------------|
-
-# Study
-|:---------------------------------------------|:----------------------------------------------|:----------------------------------------------|
-|  [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |
-|  [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |
-|  [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |   [Link to C Basic Tutorial](pages/ctutorial) |
-|:---------------------------------------------|:----------------------------------------------|:----------------------------------------------|
-
+- Table of Contents
+  - Home
+  - About
+  - Projects
+    - [Link to C Basic Tutorial](pages/ctutorial)
+    - [Link to C Basic Tutorial](pages/ctutorial)
+    - [Link to C Basic Tutorial](pages/ctutorial)
+  - Study
+    - [Link to C Basic Tutorial](pages/ctutorial)
+    - [Link to C Basic Tutorial](pages/ctutorial)
+    - [Link to C Basic Tutorial](pages/ctutorial)
+  - Contact
 
 /*
 # Profile 
