@@ -6,7 +6,13 @@ Welcome to Re-searchIT.com
 
 # Profile 
 ### Jin Heo
-I'm a person 
+You will feel at ease when you give up. 
+However, don't give up for the moment of comfort.
+Don't blame others.
+Don't make excuses.
+Live righteously.
+No sweet without sweat.
+
 
 
 ### Education
@@ -16,6 +22,7 @@ I'm a person
 | 2018      | Ajou University, South Korea,  Undergraduate of Science of Software (Transfered to)                         |
 | 2015      | Chungkang College of Cultural Industries, South Korea,  Department of Computer Games (Transfered from)      |
 | 2011      | Chungdahm High School of Information & Communication, South Korea, Department of Computer Network           | 
+
 
 
 ### Experience
