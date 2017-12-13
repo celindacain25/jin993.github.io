@@ -3,7 +3,8 @@ layout: default
 ---
 
 # Starcraft 2 AI Project
-[back](../pmain){:.text-right}
+<right>[back](../pmain)</right>
+
 In this research, Starcraft 2 AI API is used to make AI like a human player.
 
 ## Table of Contents
