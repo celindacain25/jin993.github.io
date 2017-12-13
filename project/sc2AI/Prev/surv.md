@@ -2,16 +2,16 @@
 layout: default
 ---
 
-# Project Lists
+# Zero-Player Games
+[back](../sc2ai){:.text-right}
 
-## Projects in Progress
-1. [Starcraft 2 AI](./)
-1. [Operating System Development on Raspberry Pi 3](./)
+[paper link](http://ieeexplore.ieee.org/document/6637024/){: target="_blank"}
 
-## Completed Project
-2. [Window API Game Development](./)
-2. [Automatic defence system Development](./)
-2. [A Tour Application Development with Public Data](./)
-2. [Glossy Communication with Ti Sensortag and Contiki OS](./)
-2. [Proposal of Network Protocol Stack for Mobility Devices](./)
-2. [Computer Vision Accleration with FPGA](./)
+The reason whay I read this paper is that I want to make a AI player. At the very first step, I should clarify that what the player is, and the meaning the player has. To know about them, it is helpful to know the definition of games.
+
+The Definition of Games 
+  - Designed objects that give players the ability to intentionally act towards reaching the goals of a game
+  - Games is not designed objects, since games only exist when played. Therefore, they have various definitions.
+  - In the player-centric view, Products of player actions
+
+Games have various definitions, but this paper focus on the zero-player games for getting the meaning of players. To be a player, the intentional stance is required. Therefore, the AI player have to have an intention to win the game. 
