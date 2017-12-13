@@ -3,8 +3,9 @@ layout: default
 ---
 
 # Zero-Player Games
+[back]("../sc2ai"){:.text-right}
 
-[paper link]("http://www.jesperjuul.net/text/zeroplayergames/")
+[paper link](http://www.jesperjuul.net/text/zeroplayergames/){: target="_blank"}
 
 The reason whay I read this paper is that I want to make a AI player. At the very first step, I should clarify that what the player is, and the meaning the player has. To know about them, it is helpful to know the definition of games.
 
