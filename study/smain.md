@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 ---
 
@@ -23,9 +23,18 @@ Short descripton about me...
 
 * * * 
 
-# [Project Lists](./project/pmain)
 
-# [Study](./study/smain)
+# [Project Lists](projects)
+
+# [Study](study)
+
+# [test](./test/another-page)
+
+
+
+
+
+
 
 
 ## [](#header-2)Header 2
