@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Zero-Player Games
-[back]("../sc2ai"){:.text-right}
+[back](../sc2ai){: .text-right}
 
 [paper link](http://www.jesperjuul.net/text/zeroplayergames/){: target="_blank"}
 
