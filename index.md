@@ -1,10 +1,9 @@
 ﻿---
 layout: default
 ---
+[Project Lists](./project/pmain){: .btn.btn-default}     [Study](./study/smain){: .btn.btn-default}
 
 Welcome to Re-searchNew.com
-
-[Project Lists](./project/pmain){: .btn.btn-default}     [Study](./study/smain){: .btn.btn-default}
 
 # Profile 
 ### Jin Heo
