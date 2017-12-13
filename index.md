@@ -4,20 +4,6 @@ layout: default
 
 Welcome to Re-searchIT.com
 
-- Table of Contents
-  - Home
-  - About
-  - Projects
-    - [Link to C Basic Tutorial](pages/ctutorial)
-    - [Link to C Basic Tutorial](pages/ctutorial)
-    - [Link to C Basic Tutorial](pages/ctutorial)
-  - Study
-    - [Link to C Basic Tutorial](pages/ctutorial)
-    - [Link to C Basic Tutorial](pages/ctutorial)
-    - [Link to C Basic Tutorial](pages/ctutorial)
-  - Contact
-
-/*
 # Profile 
 ### Jin Heo
 Short descripton about me...
@@ -26,14 +12,18 @@ Short descripton about me...
 
 ### Experience
 
-|:-------------|:------------------|:------|
+* * * 
 | Year         | head two          | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
-|:-------------|:------------------|:------|
+* * * 
+
+# [Project](_about/project)
+
+# [Study](_about/study)
 
 
 
