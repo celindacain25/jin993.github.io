@@ -3,15 +3,23 @@ layout: default
 ---
 [back](../sc2ai){: .btn.btn-default}
 
-# Zero-Player Games
+# DeepMind and Blizzard open StarCraft II as an AI research environment
 
-[paper link](http://www.jesperjuul.net/text/zeroplayergames/){: target="_blank"}
+[News link](https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/){: target="_blank"}
 
-The reason whay I read this paper is that I want to make a AI player. At the very first step, I should clarify that what the player is, and the meaning the player has. To know about them, it is helpful to know the definition of games.
+DeepMind is collaborating with Blizzard Entertainment. They released Starcraft II research environment. The environmnet includes these things.
 
-The Definition of Games 
-- Designed objects that give players the ability to intentionally act towards reaching the goals of a game
-- Games is not designed objects, since games only exist when played. Therefore, they have various definitions.
-- In the player-centric view, Products of player actions
+- PySC2 which is an DeepMind's toolset
+- A series of simple RL mini-games 
+- A joint paper outlining the environment
 
-Games have various definitions, but this paper focus on the zero-player games for getting the meaning of players. To be a player, the intentional stance is required. Therefore, the AI player have to have an intention to win the game. 
+Starcraft 2 has quite big complexity. As a example, the action space is quite big.
+// Image
+To build a building, the player should use Terran SCV, Protoss Probe, or Zerg Drone. The agent do tasks to conduct the players action. Available actions are dependent to the unit the player selected. 
+
+As the example showed, Starcraft 2 is too complex to be tackled. In PySC2, the DeepMind toolset, the game is broken into feature layers. 
+
+// Image
+
+From this feature layers, the researcher can get various status of the game, and the AI player can make more reasonable decisions by using this game status.
+Moreover, they also provide some mini-games to check the specific task's performance. With this platform, the researcher can tackle each component of games, and test it. 
