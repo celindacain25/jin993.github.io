@@ -17,7 +17,7 @@ Blizzard Entertainment released the starcraft 2 API in Aug 2017. Following this 
 - Windows and Mac support
 - Fully-featured Linux package of the API
 
-The API is released by github.
+The API is released on github.
 - [StarCraft II API Library](https://github.com/Blizzard/s2client-api)
 - [StarCraft II API Protocol](https://github.com/Blizzard/s2client-proto)
 - [Python Protocol Binding Library](https://pypi.python.org/pypi/s2clientprotocol/)
