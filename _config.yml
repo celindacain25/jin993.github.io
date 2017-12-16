@@ -1,5 +1,7 @@
 title: Re-searchNew.com
 description: The path I've walked
 show_downloads: true
-google_analytics: 993jin@gmail.com
+google_analytics: 
+disqus_url: https://disqus.com/by/Jin_Heo/
+disqus_id: JinHeo
 theme: jekyll-theme-hacker
