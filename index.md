@@ -37,6 +37,7 @@ No sweet without sweat.
 | Jan-Mar  2017       | Commonwealth Scientific and Industrial Research Organisation, Australia | Undergraduate Researcher    |
 | Aug-Dec  2016       | Ajou University, South Korea                                            | Undergraduate Researcher    |
 | Oct 2013 - May 2014 | YBM Language Institutes, South Korea                                    | Teaching Assistant          |
+| Nov 2011 - Aug 2013 | Republic of Korea Army                                                  | IT Professional Staff       |
 | Aug-Dec 2010        | LG Electronics Mobile Communications, South Korea                       | Assembly Staff              |
 
 
