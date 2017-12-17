@@ -14,12 +14,14 @@ DeepMind is collaborating with Blizzard Entertainment. They released Starcraft I
 - A joint paper outlining the environment
 
 Starcraft 2 has quite big complexity. As a example, the action space is quite big.
-// Image
+
+![actionSpace](./actionSpace.jpg)
+
 To build a building, the player should use Terran SCV, Protoss Probe, or Zerg Drone. The agent do tasks to conduct the players action. Available actions are dependent to the unit the player selected. 
 
 As the example showed, Starcraft 2 is too complex to be tackled. In PySC2, the DeepMind toolset, the game is broken into feature layers. 
 
-// Image
+![featuredLayer](./featurelayer.jpg)
 
 From this feature layers, the researcher can get various status of the game, and the AI player can make more reasonable decisions by using this game status.
 Moreover, they also provide some mini-games to check the specific task's performance. With this platform, the researcher can tackle each component of games, and test it. 

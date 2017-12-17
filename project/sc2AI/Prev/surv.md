@@ -5,7 +5,7 @@ layout: default
 
 # A Survey of Real-Time Strategy Game AI Research and Competition in StarCraft
 
-[paper link](http://ieeexplore.ieee.org/document/6637024/){: target="_blank"}
+[Paper link](http://ieeexplore.ieee.org/document/6637024/){: target="_blank"}
 
 This paper is related to the Starcraft 1 AI research. The reason why I read this paper is that I need to know the current research topic of Starcraft AI, and find the field which I can contribute to.
 
