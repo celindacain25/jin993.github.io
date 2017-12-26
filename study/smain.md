@@ -40,3 +40,6 @@ layout: default
 	
 1. Profile
 	- [Basic Concept](./)
+
+1. etc
+	- [Setup my server](./etc/sms)
