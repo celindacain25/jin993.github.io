@@ -25,8 +25,7 @@ Many websites provide the functionality checking the public registered IP, or it
 ![portforwarding](./smsPortforwarding.png)
 
 After checking the IP, I have to set a port forwarding option of my router. 
-> port forwarding or port mapping is an application of network address translation (NAT) that redirects a communication request from one address and port number combination to another while the packets are traversing a network gateway, such as a router or firewall. This technique is most commonly used to make services on a host residing on a protected or masqueraded (internal) network available to hosts on the opposite side of the gateway (external network), by remapping the destination IP address and port number of the communication to an internal host 
-
+> port forwarding or port mapping is an application of network address translation (NAT) that redirects a communication request from one address and port number combination to another while the packets are traversing a network gateway, such as a router or firewall. This technique is most commonly used to make services on a host residing on a protected or masqueraded (internal) network available to hosts on the opposite side of the gateway (external network), by remapping the destination IP address and port number of the communication to an internal host.
 https://en.wikipedia.org/wiki/Port_forwarding
 
 If I want to make a SSH server, I have to set SSH port forwarding. After this, I should set my computer for making the server listen SSH connections from outside. In my case, I installed Ubuntu on my server computer, and installed SSH. When I access to my SSH serve, I use the public registered IP and the SSH port number. 
