@@ -14,18 +14,19 @@ The meaning of reinforcement learning is that "address how agents should learn t
 
 For reinforcement learning, the policy is really important. The equation of the policy is defined by MDP(Markov Deicision Process):
 
-\\(\pi : policy\\)
-\\(S : states\\)
-\\(A : actions\\)
-\\(\rho : pdf\\)
-\\(r : reward fuctions\\)
-\\(R : reward values\\)
+\\(\pi : policy \qquad\\)
+\\(S : states \qquad\\)
+\\(A : actions \qquad\\)
+\\(\rho : pdf \qquad\\)
+\\(r : reward fuctions \qquad\\)
+\\(R : reward values \qquad\\)
 
-\\( P = S \times A \times S -> R : the transition probability distribution\\)
+\\( P = S \times A \times S -> R : the\ transition\ probability\ distribution\\)
 
 this means the transition from one state to the other state by action. Therefore, this is transition probability by an action.
 
 \\( r = S \times A \to R \\)
+
 \\( \pi = S \times A \to R_\geq0 \\)
 
 
