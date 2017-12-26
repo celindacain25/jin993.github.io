@@ -8,6 +8,8 @@ html header: <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/
 
 [Paper link](https://arxiv.org/pdf/1604.06778){: target="_blank"}
 
+\\({e}^{i\pi}+1=0\\)
+
 This paper is about benchmarking of deep reinforcement learning algorithms. This paper has meaning in my project. First of all, I should know how to benchmark the learning algorithm. In this paper, the researchers introduce exisiting algorithms and how to evaluate them. Since I just start the first step of this project, I shold know previous successful researches and the characteristics of them for my interest.
 
 The meaning of reinforcement learning is that "address how agents should learn to take actions to maximize cumulative reward through interactions with the environment". These days, deep learning and reinforcement learning are combined, and show great results. Further, the continuous control makes complexity high. In my project, the target game is SC2(StarCraft 2). If I can get some commonalities between my situation and the situation this paper assume, it would be helpful. 
