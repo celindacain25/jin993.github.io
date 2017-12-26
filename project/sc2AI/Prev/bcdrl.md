@@ -15,8 +15,13 @@ This paper is about benchmarking of deep reinforcement learning algorithms. This
 
 The meaning of reinforcement learning is that "address how agents should learn to take actions to maximize cumulative reward through interactions with the environment". These days, deep learning and reinforcement learning are combined, and show great results. Further, the continuous control makes complexity high. In my project, the target game is SC2(StarCraft 2). If I can get some commonalities between my situation and the situation this paper assume, it would be helpful. 
 
-For reinforcement learning, the policy is really important. The equation of the policy is defined by this:
- 
+For reinforcement learning, the policy is really important. The equation of the policy is defined by MDP(Markov Deicision Process):
+\\(\pi : policy  S : states  A : actions  \rho : pdf  r : reward fuction  R : reward value\\)
+\\( P = S \times A \times S -> R : the transition probability distribution\\)
+this means the transition from one state to the other state by action. Therefore, this is transition probability by an action.
+\\( r = S \times A \to R\\)
+\\( \pi = S \times A \to R_\geq0)
+
 
 SC2 is quite challengeable because of its characteristics :
 - Imperfect information 
