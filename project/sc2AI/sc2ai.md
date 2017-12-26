@@ -12,7 +12,7 @@ In this research, Starcraft 2 AI API is used to make AI like a human player.
 1. Previous Research Analysis
 	- [Zero-Player Game](./Prev/zero)
 	- [A Survey of Real-Time Strategy Game AI Research and Competition in StarCraft](./Prev/surv)
-	- 
+	- [StarCraft II: A New Challenge for Reinforcement Learning](./Prev/sc2)
 
 2. Released Platform 
 	- [Blizzard](./Plat/blizNews)
