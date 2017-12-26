@@ -21,13 +21,13 @@ For reinforcement learning, the policy is really important. The equation of the 
 \\(r : reward fuctions \qquad\\)
 \\(R : reward values \qquad\\)
 
-\\( P = S \times A \times S -> R : the\ transition\ probability\ distribution\\)
+\\( P = S \times A \times S \to R : the\ transition\ probability\ distribution\\)
 
 this means the transition from one state to the other state by action. Therefore, this is transition probability by an action.
 
 \\( r = S \times A \to R \\)
 
-\\( \pi = S \times A \to R_\geq0 \\)
+\\( \pi = S \times A \to R_\geq_0 \\)
 
 
 SC2 is quite challengeable because of its characteristics :
