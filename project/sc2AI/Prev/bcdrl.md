@@ -25,9 +25,9 @@ For reinforcement learning, the policy is really important. The equation of the 
 
 this means the transition from one state to the other state by action. Therefore, this is transition probability by an action.
 
-\\( r = S \times A \to R \\)
+\\(r = S \times A \to R \\)
 
-\\( \pi = S \times A \to R_\geq_0 \\)
+\\(\pi = S \times A \to R_\geq_0 \\)
 
 After defining the policy, the continuous feature should be considered. 
 
