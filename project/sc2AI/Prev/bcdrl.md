@@ -26,14 +26,12 @@ For reinforcement learning, the policy is really important. The equation of the 
 this means the transition from one state to the other state by action. Therefore, this is transition probability by an action.
 
 \\(r = S \times A \to R \\)
-
-\\(\pi = S \times A \to R_\geq_0 \\)
+\\(\pi = S \times A \to R_{\geq,0} \\)
 
 After defining the policy, the continuous feature should be considered. 
 
-\\(\gamma : the discount factor \\)
-
-\\( \eta\left(\pi \right) = E_r\left[\sum^T_t=0\gamma^tr/left(s_t, a_t\right) \right]\\)
+\\(\gamma : the\ discount\ factor \\)
+\\( \eta\left(\pi \right) = E_r\left[\sum_t^T=0\gamma^tr/left(s_t, a_t\right) \right]\\)
 
 SC2 is quite challengeable because of its characteristics :
 - Imperfect information 
