@@ -21,10 +21,11 @@ To tackle this problem, DeepMind provides guidelines for applying deep reinforce
 	- ![Observations](../Plat/featurelayer.jpg)
 	Observations are from SC2 API. SC2 API provides feature layers. the feature layers represent unit type, hit points, and etc. These features are figured from minimap and screen. The minimap is more abstracted than the screen, and the screen has more detailed information. These are spatial observations. There are also non-spatial observations such as minerals, gas, and the set of available actions. 
 - Actions
-	- ![Actions](./Plat/actionSpace.jpg)
+	- ![Actions](../Plat/actionSpace.jpg)
 	Actions are following the human interface. each action is represented by the function identifier and the sequence of arguments. As an example, select_rect(select_add, (x1, y1), (x2, y2))
 - Reward specifications 
 	- DeepMind defines two reward structures. the first structure is ternary 1/0/-1(win/tie/loss), and the other is the provided game score by Blizzard.
+
 
 ![SC2LEarchitecture](./sc2le.jpg)
 the architecture of SC2LE is that PySC2(wrappers of SC2 API) are connected to learning agents. Agents make actions, and the actions make the results. the results are observations. Based on the observations, the agents are rewarded. For the agents, this paper also intruduces baseline agents of reinforcement learning. Although there are many algorithms for this, the main goal of the algorithms is maximization of the rewards. DeepMind apply exsisting models to mini-games and full game.
