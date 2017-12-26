@@ -29,6 +29,11 @@ this means the transition from one state to the other state by action. Therefore
 
 \\( \pi = S \times A \to R_\geq_0 \\)
 
+After defining the policy, the continuous feature should be considered. 
+
+\\(\gamma : the discount factor \\)
+
+\\( \eta\left(\pi \right) = E_r\left[\sum^T_t=0\gamma^tr/left(s_t, a_t\right) \right]\\)
 
 SC2 is quite challengeable because of its characteristics :
 - Imperfect information 
