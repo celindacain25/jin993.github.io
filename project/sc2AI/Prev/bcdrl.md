@@ -1,6 +1,5 @@
 ---
 layout: default
-html header: <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 ---
 [back](../sc2ai){: .btn.btn-default}
 
