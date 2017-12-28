@@ -18,3 +18,6 @@ In this research, Starcraft 2 AI API is used to make AI like a human player.
 2. Released Platform 
 	- [Blizzard](./Plat/blizNews)
 	- [DeepMind](./Plat/deepNews)
+
+3. Related Study
+	- [Google Protocol Buffer](./Rels/protocolBuf)
