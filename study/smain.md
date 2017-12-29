@@ -4,25 +4,15 @@ layout: default
 [back](../){: .btn.btn-default}
 
 # Study
+1. Team Work
+	- [Git & GitHub](./TeamW/github)
+	- [Docker](./TeamW/docker)
 
-1. Basic Languages
-	- [C Tutorial](./)
-	- [C++ Tutorial](./)
-	- [Python Tutorial](./)
-	- [Java Tutorial](./)
-
-1. Basic Computer Science
+1. Data Structure & Algorithm
 	- [Data Structure](./)
 	- [Algorithm](./)
 
-1. Computer Vision
-	- [OpenVX](./)
-	- [Edge Detection](./)
-	- [Stereo Matching](./)
-	- [SIFT](./)
-
 1. Computer Graphics
-	- [Windows CMD drawing](./)
 	- [Windows API](./)
 	- [Direct X](./)
 	- [OpenGL](./)
@@ -43,3 +33,4 @@ layout: default
 
 1. etc
 	- [Setup my server](./etc/sms)
+
