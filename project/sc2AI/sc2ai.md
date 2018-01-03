@@ -3,10 +3,10 @@ layout: default
 ---
 [back](../pmain){: .btn.btn-default}
 
-# Starcraft 2 AI Project
+# StarCraft 2 AI Project
 
 
-In this research, Starcraft 2 AI API is used to make AI like a human player.
+In this research, StarCraft 2 AI API is used to make AI like a human player.
 
 ## Table of Contents
 1. Previous Research Analysis
@@ -17,6 +17,7 @@ In this research, Starcraft 2 AI API is used to make AI like a human player.
 
 2. Released Platform 
 	- [Blizzard](./Plat/blizNews)
+		- [StarCraft 2 Protobuf]
 	- [DeepMind](./Plat/deepNews)
 
 3. Related Study
