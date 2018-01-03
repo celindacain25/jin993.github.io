@@ -5,7 +5,7 @@ layout: default
 
 # StarCraft 2 API
 
-[SC2 API Github link]https://github.com/Blizzard/s2client-api){: target="_blank"}
+[SC2 API Github link](https://github.com/Blizzard/s2client-api){: target="_blank"}
 
 This Github repository is SC2 API. SC2 API is a protobuf based on protocols using websockets as the connection layer. Therefore, SC2 API is accessed through the web sockets. SC2 API communicates with SC2 game through the web socket URL. The whole communications between SC2 API and SC2 gmae are done by "request" and "response". 
 
