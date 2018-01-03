@@ -17,7 +17,8 @@ In this research, StarCraft 2 AI API is used to make AI like a human player.
 
 2. Released Platform 
 	- [Blizzard](./Plat/blizNews)
-		- [StarCraft 2 Protobuf]
+		- [StarCraft 2 Protobuf](./Plat/BlizProto/blizProto)
+		- [StarCraft 2 API](./Plat/BlizProto/blizAPI)
 	- [DeepMind](./Plat/deepNews)
 
 3. Related Study
