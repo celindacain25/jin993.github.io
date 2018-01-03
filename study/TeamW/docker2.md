@@ -38,6 +38,7 @@ This executes Tensorflow with prot fowarding.
 
 ## Docker Optinos
 More than the "run" option, there are other options. the frequently used options are these:
+
 	docker ps [OPTIONS] : list Container
 	docker stop [OPTIONS] Container : stop Container
 	docker rm [OPTIONS] Container : remove Container
