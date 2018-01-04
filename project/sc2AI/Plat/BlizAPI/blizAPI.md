@@ -22,7 +22,9 @@ The game state is in the status field of every response. The possible states are
 SC2 API provides the access to the game state observation and the unit control. Usually, at InGame state, request and response are paired. request normally is the order for controlling units and for getting a state observation, and respond is the state caused by request. On the other hand, at InReplay state, there is no request for controlling units, but request for getting a state observation. The game and replay are processed by steps. The API provides two game speed modes; a single step mode and a realtime mode. 
 
 These are InGame and InReplay diagrams. 
+
 ![InGame Diagram](./gameDiagram.png)
+
 For playing two bots against each other, what I have to do is to launch two instances of the API, and synchronize them. 
 
 ![InRepaly Diagram](./replayDiagram.png)
