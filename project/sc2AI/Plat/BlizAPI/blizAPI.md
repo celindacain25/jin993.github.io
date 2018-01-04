@@ -14,3 +14,28 @@ This Github repository is SC2 API. SC2 API is a protobuf based on protocols usin
 Each request is usually paired with each response.
 
 ## Protocols
+
+The game state is in the status field of every response. The possible states are introduced as a state machine diagram.
+
+![SC2 Game State](./stateDiagram.png)
+
+SC2 API provides the access to the game state observation and the unit control. Usually, at InGame state, request and response are paired. request normally is the order for controlling units and for getting a state observation, and respond is the state caused by request. On the other hand, at InReplay state, there is no request for controlling units, but request for getting a state observation. The game and replay are processed by steps. The API provides two game speed modes; a single step mode and a realtime mode. 
+
+These are InGame and InReplay diagrams. 
+![InGame Diagram](./gameDiagram.png)
+For playing two bots against each other, what I have to do is to launch two instances of the API, and synchronize them. 
+
+![InRepaly Diagram](./replayDiagram.png)
+
+## Interface
+The basic model of the API and the game is observation and action model. The action is the request from API, and the observation is from the game.
+There are four interfaces for the observation. 
+- Raw data interface : direct access to the game state and control for scripted AIs.
+- Featured layer interface : the game states are provided as featured layers for machine learning AIs.
+- Rendered interface : the real pixel image of game is used as a game state.
+- Scored interface : not image information, but score information about the game. 
+
+Until now, the raw data interface and the scored interface are used for scripted AIs. The rendered interface and the scored interface are for machine learning AIs. The scored interface are used to evaluate the current status of the game. With this information, the actions are placed by SC2 API.
+
+## The Relation between SC2 Protobuf and API
+The relationship between SC2 API and Protobuf is that SC2 API includes Protobuf for its communication. In this repository, Protobuf is also included.Therefore, the request and response between SC2 API and game have protocols defined by Protobuf.
