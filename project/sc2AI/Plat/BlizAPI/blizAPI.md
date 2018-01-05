@@ -41,3 +41,6 @@ Until now, the raw data interface and the scored interface are used for scripted
 
 ## The Relation between SC2 Protobuf and API
 The relationship between SC2 API and Protobuf is that SC2 API includes Protobuf for its communication. In this repository, Protobuf is also included.Therefore, the request and response between SC2 API and game have protocols defined by Protobuf.
+
+## Operating System
+At the very first time, I tried to set the API up on my Linux machine. However, I don't recommend this. For the machine learning based AI, maybe it's more efficient to install SC2 API on a Linux machine for training. The released SC2 for linux is a headless version. It means that SC2 dosen't include graphic stuff, so it is not possible to check the game screen. Even though it's headless, SC2 can be used for AI to play against other AIs or human players. Therefore, I don't recommend using Linux machine at the very first step.
