@@ -1,13 +1,13 @@
 ---
 layout: default
 ---
-[back](./docker1){: .btn.btn-default}
+[back](./docker1){: .btn.btn-default} [Basic3](./docker2){: .btn.btn-default}
 
-# Docker Basic 2
+# Docker Basic2
 
-[Docker Official Website](https://www.docker.com/)
+[Docker Official Website](https://www.docker.com/){: target="_blank"}
 
-## How to use Docker?
+## Basic Commands For Docker
 Docker is for Linux. When someone downloads Docker for Mac or Windows, it work like a virtual machine. After starting Dockr, we can use docker commands.
 
     docker run [OPTIONS] IMAGES [COMMAND] [ARGUMENTS]
@@ -47,10 +47,3 @@ More than the "run" option, there are other options. the frequently used options
 	docker pull [OPTIONS] [NAME] : pull an image or a repository from a registry
 	docker logs [OPTIONS] : print logs
 	docker exec [OPTIONS] Container [COMMAND] : make an exec order to the existing Container
-
-## Multi Container Application
-refer [Docker Compose](https://docs.docker.com/compose/overview/).
-
-## More tutorials
-More than these basic, Dockerization and managing images are important for the developers using Docker.
-refer [Docker Tutorial](https://docs.docker.com/samples/).

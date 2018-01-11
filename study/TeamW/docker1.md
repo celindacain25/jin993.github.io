@@ -3,9 +3,9 @@ layout: default
 ---
 [back](../smain){: .btn.btn-default} [Basic2](./docker2){: .btn.btn-default}
 
-# Docker Basic 1
+# Docker Basic1
 
-[Docker Official Website](https://www.docker.com/)
+[Docker Official Website](https://www.docker.com/){: target="_blank"}
 
 ## Motivation
 After research fellowship in UC, Irvine, I realize that the team work is not easy. These days, there are bunch of tools for making team wrok easier. Among them, Docker is a quite nice tool. So, I introduce Docker and the basic way to set up the environment for team work.
@@ -16,7 +16,7 @@ Follwing the official webiste, Docker is for the true independence between appli
 ## What Docker And The Container Are
 Docker is a container platform to address every applications. To understand the concept of Docker, it is necessary to understand what the container is. The official website provides the basic explanations of Docker and the container. The container is a standardized unit of software. So, we can put software into standardized units, the containers, for flexibility of development, shipment, and deployment. The container includes all resources for running the program such as codes, tools, libraries, and settings. Therefore the contained application always run same regardless of the environment. 
 
-## The Difference Docker and Virtual Machine
+## The Difference Docker And Virtual Machine
 This difference can be explained by the level of abstraction. In short, Docker and VM have similar concepts, but they are on different level of abstration. 
 
 ![Docker VS VM](./dockerVM.png)
