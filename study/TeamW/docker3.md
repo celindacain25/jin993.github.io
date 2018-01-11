@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[back](./docker2){: .btn.btn-default} [Basic3](./docker2){: .btn.btn-default}
+[back](./docker2){: .btn.btn-default}
 
 # Docker Basic3
 
