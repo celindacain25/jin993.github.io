@@ -22,16 +22,16 @@ If we followed the document explaining how to build sc2client-api, "build" folde
 - build/tests
 - build/src
 
-These files are built from s2client-api. Therefore, the codes in the s2client-api folder is everything for us.
+These folders are built from s2client-api. Therefore, the codes in the s2client-api folder is everything for us.
 
 There are bunch of folders, but what we need is "src", "tests", "examples". 
 
 1. src
 
 The codes in src are the point of sc2client-api. For implement our own bot, it is necessary to well know this codes. As much as we know, we can make our bot better by using various functions. Especially, codes in "src/sc2api" must be analyzed.
-1. tests
+2. tests
 
 This folder has codes for testing SC2 API. With this codes, we can figure out how to handle SC2 API. At the very first time, we don't need to know this codes. However, this codes are needed for doing more extended functions such as multiplayer-game and featuring game information.
-1. examples
+3. examples
 
 We start from this folder. In examples, we can learn how to handle SC2 API. In next document, I will introduce my own bot by using tutorial.cc.
