@@ -33,7 +33,7 @@ This codes create a bot object, and assign it as on the player side. The opposit
 After setting participants, coordinator launches StarCraft II, and starts a game wit the map parameter. The whole maps are available at "s2client-api/include/sc2api/sc2_game_settings.h" and "s2client-api/src/sc2api/sc2_game_settings.cc". These files are built by CMake. Therefore, it is required to rebuild sc2client-api when we add new maps. 
 When the game start, the coordinator calls the Update function for stepping the game.
 
-![SC2 Game State](../../Plat/gameDiagram.png)
+![SC2 Game State](../../Plat/BlizAPI/gameDiagram.png)
 
 Each step follows this diagram sequence. Observation and Action are the core of steps. 
 
