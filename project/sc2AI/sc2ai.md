@@ -24,3 +24,9 @@ In this research, StarCraft 2 AI API is used to make AI like a human player.
 3. Related Study
 	- [Google Protocol Buffer](./Rels/protocolBuf)
 	- [CMake Support for Visual Studio](./Rels/cmakeVS)
+
+4. SC2 AI Bots
+	- Scripted AI
+		- [Scripted AI by using Blizzard API](./aibots/scriptedblizzMain)
+		- [Scripted AI by using DeepMind PySC2](./aibots/scriptedpyscMain)
+	- Reinforcement Learning AI

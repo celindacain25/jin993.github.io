@@ -6,9 +6,9 @@ layout: default
 # Project Lists
 
 ## Projects in Progress
-1. [StarCraft 2 AI](./sc2AI/sc2ai)	
+1. [StarCraft 2 AI](./sc2AI/sc2ai.md)	
 1. [Operating System Development on Raspberry Pi 3](./)
-1. [PyGame Game Development](./pyGame/pygame)
+1. [PyGame Game Development](./pyGame/pygame.md)
 
 ## Completed Project
 2. [Window API Game Development](./)
