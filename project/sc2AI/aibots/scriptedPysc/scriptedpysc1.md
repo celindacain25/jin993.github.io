@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[back](../sc2ai){: .btn.btn-default}
+[back](../../sc2ai){: .btn.btn-default}
 
 # Scripted AI by using Blizzard API
 

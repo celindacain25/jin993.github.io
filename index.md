@@ -16,15 +16,18 @@ Don't make excuses.
 Live righteously.
 No sweet without sweat.
 
-
+### Publication
+| Year of Publication | Paper                                                                                                     |
+|:--------------------|:----------------------------------------------------------------------------------------------------------|
+|        2017         | Accelerating Convolutional Neural Network with Field Programmable Gate Arrays, CEIC2017, First Author     |
 
 ### Education
 
-| Grad Year | Educational Institution                                                                                     |
-|:----------|:------------------------------------------------------------------------------------------------------------|
-| 2018      | Ajou University, Undergraduate of Science of Software (Transfered to), South Korea                          |
-| 2015      | Chungkang College of Cultural Industries, Department of Computer Games (Transfered from), South Korea       |
-| 2011      | Chungdahm High School of Information & Communication, Department of Computer Network, South Korea           | 
+| Year of Graduation | Educational Institution                                                                                     |
+|:-------------------|:------------------------------------------------------------------------------------------------------------|
+|       2018         | Ajou University, Undergraduate of Science of Software (Transfered to), South Korea                          |
+|       2015         | Chungkang College of Cultural Industries, Department of Computer Games (Transfered from), South Korea       |
+|       2011         | Chungdahm High School of Information & Communication, Department of Computer Network, South Korea           | 
 
 
 
