@@ -17,6 +17,7 @@ Live righteously.
 No sweet without sweat.
 
 ### Publication
+
 | Year of Publication | Paper                                                                                                     |
 |:--------------------|:----------------------------------------------------------------------------------------------------------|
 |        2017         | Accelerating Convolutional Neural Network with Field Programmable Gate Arrays, CEIC2017, First Author     |
