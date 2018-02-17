@@ -184,8 +184,8 @@ FindNearestMineralPatch gets the minimum distance of mineral fileds. The codes a
 
 These codes run two Starcraft II and make bots be against each other. Congratulation! Now, we can make more complicated bots. 
 	
-	junBot bot1;
-	junBot bot2;
+	jinBot bot1;
+	jinBot bot2;
 	coordinator.SetParticipants({
 	  CreateParticipant(Race::Protoss, &bot1),
 	  CreateParticipant(Race::Protoss, &bot2)
