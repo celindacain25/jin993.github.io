@@ -12,16 +12,16 @@ To install PyGame, visit [PyGame official website](https://www.pygame.org/downlo
 pyGameProject<br />
 ├── main.py<br />
 ├── GameLoop.py<br />
-└── units<br />
-    ├── __init__.py<br />
-    ├── UnitBase.py<br />
-    ├── Character.py<br />
-    └── Structure.py<br />
-└── resources<br />
-    └── images<br />
-        ├── mainMenu1.png<br />
-        ├── mainMenu2.png<br />
-        └── playerDump.png<br />
+└── units
+<br />    ├── __init__.py
+<br />    ├── UnitBase.py
+<br />    ├── Character.py
+<br />    └── Structure.py<br />
+└── resources
+<br />    └── images
+<br />        ├── mainMenu1.png
+<br />        ├── mainMenu2.png
+<br />        └── playerDump.png
 
 My project structure is like this; main.py is the main menu loop of the game, and GameLoop is only for a game loop. The package "units" is for having whole characters and structures. "resources" has some resources for the game such as images, effect sounds, and background sounds.
 
