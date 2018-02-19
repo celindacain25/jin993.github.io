@@ -5,7 +5,7 @@ layout: default
 
 # Linux Kernel Study
 
-For studying Linux Kernel, I refer [this book](http://shop.oreilly.com/product/9780596005658.do){: target = "_blank"}. I start my project, Operating System Development on Raspberry Pi 3, and realize that the deep undersatnding of Linux is necessary to complete my project successfully. In this page, I follow the book's contents, and arrange the contents by my own view. 
+For studying Linux Kernel, I refer [this book](http://shop.oreilly.com/product/9780596005658.do){: target="_blank"}. I start my project, Operating System Development on Raspberry Pi 3, and realize that the deep undersatnding of Linux is necessary to complete my project successfully. In this page, I follow the book's contents, and arrange the contents by my own view. 
 
 1. [Chapter 1. Introduction]()
 1. [Chapter 2. Moemory Addressing]()
