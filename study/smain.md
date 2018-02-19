@@ -27,6 +27,7 @@ layout: default
 	- [SQL](./)
 
 1. Operating System
+	- [Linux Kernel](./os/linux/linuxmain)
 	
 1. Profile
 	- [Basic Concept](./)
