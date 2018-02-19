@@ -33,16 +33,6 @@ Now, it's time to build our own bot. For this, I used Windows and Visual Studio.
 
 This is jinBot.h. I select my bot race as Protoss. jinBot inherite Agent, and the virtual methods, OnGameStart ad OnStep, must be implemented. TryBuildStructure is for building a structure, and it is used by TryBuildPylon and TryBuildGateway. Further, there are more functions; FindNearMineralPatch, OnUnitIdle, OnUnitCreated, GetDistanceBetweenUnits, and CountUnitType.
 
-	#include "jinBot.h"
-	#include <iostream>
-	#include <string>
-	#include <algorithm>
-	#include <random>
-	#include <iterator>
-
-	#include "sc2api/sc2_api.h"
-	#include "sc2lib/sc2_lib.h"
-
 	// The game start...
 	void jinBot::OnGameStart(){
 	  std::cout << "jinBot is running..." << std::endl;

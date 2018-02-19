@@ -1,19 +1,11 @@
 ---
 layout: default
 ---
-[back](../){: .btn.btn-default}
+[back](../pmain){: .btn.btn-default}
 
-# Project Lists
+# PyGame Game Development
 
-## Projects in Progress
-1. [StarCraft 2 AI](./sc2AI/sc2ai.md)	
-1. [Operating System Development on Raspberry Pi 3](./)
-1. [PyGame Game Development](./pyGame/pygame.md)
+I start this project for fun. When I learn a new programming language, I usually make a game for getting used to use the new language. For [StarCraft2 AI project](https://jin993.github.io/project/sc2AI/sc2ai), I'v studied Python, and I also start to make a game with Python. 
+The game, Jin Game, is a kind of fighting games with networks. The server program is also posted, so it is possible to build new server when somebody wants to do it.
 
-## Completed Project
-2. [Window API Game Development](./)
-2. [Automatic defence system Development](./)
-2. [A Tour Application Development with Public Data](./)
-2. [Glossy Communication with Ti Sensortag and Contiki OS](./)
-2. [Proposal of Network Protocol Stack for Mobility Devices](./)
-2. [Computer Vision Accleration with FPGA](./)
+## Menu...
