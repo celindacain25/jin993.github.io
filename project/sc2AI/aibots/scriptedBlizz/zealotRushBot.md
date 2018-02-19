@@ -182,4 +182,4 @@ These codes run two Starcraft II and make bots be against each other. Congratula
 	});
 
 
-The full source codes are available [here]()
+The full source codes are available [here](https://github.com/jin993/sc2API_bot){: target="_blank"}
