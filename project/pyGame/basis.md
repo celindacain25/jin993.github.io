@@ -9,20 +9,19 @@ For making a game, I don't recommend that someone imagines big commercial games.
 
 To install PyGame, visit [PyGame official website](https://www.pygame.org/download.shtml){: target="_blank"}. I strongly recommend to use [pip](https://pypi.python.org/pypi/pip){: target="_blank"} to install PyGame. I also use [PyCharm](https://www.jetbrains.com/pycharm/){: target="_blank"} with PyGame to make my own game. After installing these programs, Congratulation! It's time to get the ball rolling.
 
-
-pyGameProject
-├── main.py
-├── GameLoop.py
-└── units
-    ├── __init__.py
-    ├── UnitBase.py
-    ├── Character.py
-    └── Structure.py
-└── resources
-    └── images
-        ├── mainMenu1.png
-        ├── mainMenu2.png
-        └── playerDump.png
+pyGameProject<br />
+├── main.py<br />
+├── GameLoop.py<br />
+└── units<br />
+    ├── __init__.py<br />
+    ├── UnitBase.py<br />
+    ├── Character.py<br />
+    └── Structure.py<br />
+└── resources<br />
+    └── images<br />
+        ├── mainMenu1.png<br />
+        ├── mainMenu2.png<br />
+        └── playerDump.png<br />
 
 My project structure is like this; main.py is the main menu loop of the game, and GameLoop is only for a game loop. The package "units" is for having whole characters and structures. "resources" has some resources for the game such as images, effect sounds, and background sounds.
 
