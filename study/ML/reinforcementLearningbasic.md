@@ -77,7 +77,7 @@ This may have some troubles related to the large number of policies and the larg
 Value function finds a policy maximizing the return by maintaining a set of estimates of expected returns. The optimal policy achieves the best expected return from any initial state, and can be found among the stationary policies. 
 The value of a policy is defined as
 
-\\(V^\pi(s) = E[R|s, \pi], R \quad: \quad the \quad random \quad return \quad with \quad following \quad the policy \quad \pi \quad from \quad the \quad initial \quad state \quad s\\)
+\\(V^{\pi}(s) = E[R|s,\pi], R \quad : \quad the \quad random \quad return \quad with \quad following \quad the policy \quad \pi \quad from \quad the \quad initial \quad state \quad s\\)
 
 \\(V^*(s) = {max}_{\pi}V^\pi(s) : the \quad maximum \quad possible \quad value \quad of \quad the \quad policy\\) 
 
