@@ -94,7 +94,7 @@ To get the optimal action-value function, value iteration and policy interation 
 
 - Value Iteratin : refer [Q-learning]("https://en.wikipedia.org/wiki/Q-learning"){: target="_blank"}
 
-1. Direct policy search
+2. Direct policy search
 The two apporaches available are gradient-based and gradient-free methods. This methods may get struck in local optima. Since they uses the gradient ascent, it is mathematically natural.
 
 ## Conclusion
