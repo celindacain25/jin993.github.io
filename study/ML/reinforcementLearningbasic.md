@@ -53,7 +53,7 @@ Simple exploration methods are the most practical. One of the simple methods is 
 
 \\(\pi : S \times A \to [0, 1]\\)
 
-\\(\pi(a \mid s) = P(a_{t}=a \mid s_{t}=s\\)
+\\(\pi(a \mid s) = P(a_{t}=a \mid s_{t}=s)\\)
 
 Policy map gives the probability of taking action in state s. This means that the selected action in state s is determined by the policy.
 
