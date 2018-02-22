@@ -24,15 +24,21 @@ With MDP, the basic reinforcement learnig is modeled like this;
 Reinforcement learning is proper for the problems about a long-term versus short-term reward trade-off. To improve the performance of reinforcement learning, the use of samples and the use of function approximation for large environments are important. 
 
 \\(S : a \quad set \quad of \quad environment \quad and \quad agent \quad states\\)
+
 \\(A : a \quad set \quad of \quad actions \quad of \quad the \quad agent\\)
+
 \\(P_{a}(s, s') = P_{r}(S_{t+1}=s'|s_{t}=s, a_{t}=a) : Probability \quad oftransition \quad from \quad state \quad s \quad to \quad state \quad s'\\)
 
 \\(R_{a}(s, s') : immediate reward after transition from s to s'\\)
 
 \\(t : each \quad time \quad step\\)
+
 \\(o_{t} : observation \quad at \quad t\\)
+
 \\(a_{t} : action \quad at \quad t\\)
+
 \\(s_{t} : state \quad at \quad t\\)
+
 \\(r_{t} : reward \quad at \quad t\\)
 
 \\(transition(s_{t}, a_{t}, s_{t+1}\\)
@@ -52,7 +58,7 @@ Simple exploration methods are the most practical. One of the simple methods is 
 Policy map gives the probability of taking action in state s. This means that the selected action in state s is determined by the policy.
 
 - State-value function 
-The state-value function \\(V_{\pi}(s)\\) is determined by the expected return with the state s and the policiy \\(pi\\). 
+The state-value function \\(V_{\pi}(s)\\) is determined by the expected return with the state s and the policiy \\(\pi\\). 
 
 \\(V_{pi}(s) = E[R] = E[\sum_{t=0}^{\infty}\gamma^{t}r_{t}|s_{0}=s\\)
 
@@ -94,5 +100,7 @@ The two apporaches available are gradient-based and gradient-free methods. This 
 
 ## Conclusion
 The basic reinforcement learning is modeled by MDP. The policy is really important since an action is selected from a state s based on the policy. Brute force methods are used to get the optimal policy. Since the brute force methods have some problems, value function estimation and direct policy search are used to overcome the problems.
+
 There are two value functions; State-value function and Action-value function. For optimal Action-value function, Value iteration and Policy iteration are used. Policy iteration consists of the policy evaluation(Monte Calo Methods) and improvement(TD, Function Approximation). For the value iteration, refer Q-Learning. Direct policy search has restriction about the local optima. 
+
 These days, end-to-end reinforcement learning or deep reinforcement larning is getting attention. 
