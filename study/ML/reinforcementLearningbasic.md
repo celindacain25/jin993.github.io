@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[back](../smain){: .btn.btn-default}
+[back](../csmain){: .btn.btn-default}
 
 # Reinforcement Learning Basic
 
