@@ -19,19 +19,22 @@ With the concept of dynamic programming, let's consider the meaning of "approxim
 
 In machine learning, the environment is usually formulated as a Markov decision process(MDP), MDP provides a mathematical framework for modeling decision making when outcomes are partly random and partly under the control of a decision maker.
 With MDP, the basic reinforcement learnig is modeled like this;
-![RLbasicModel](./RLbasicModel)
+![RLbasicModel](./RLbasicModel.png)
 
 Reinforcement learning is proper for the problems about a long-term versus short-term reward trade-off. To improve the performance of reinforcement learning, the use of samples and the use of function approximation for large environments are important. 
 
-\\(S : a set of environment and agent states\\)
-\\(A : a set of actions of the agent\\)
-\\(P_{a}(s, s') = P_{r}(S_{t+1}=s'|s_{t}=s, a_{t}=a) : Probability oftransition from state s to state s'\\)
+\\(S : a \quad set \quad of \quad environment \quad and \quad agent \quad states\\)
+\\(A : a \quad set \quad of \quad actions \quad of \quad the \quad agent\\)
+\\(P_{a}(s, s') = P_{r}(S_{t+1}=s'|s_{t}=s, a_{t}=a) : Probability \quad oftransition \quad from \quad state \quad s \quad to \quad state \quad s'\\)
+
 \\(R_{a}(s, s') : immediate reward after transition from s to s'\\)
-\\(t : each time step\\)
-\\(o_{t} : observation at t\\)
-\\(a_{t} : action at t\\)
-\\(s_{t} : state at t\\)
-\\(r_{t} : reward at t\\)
+
+\\(t : each \quad time \quad step\\)
+\\(o_{t} : observation \quad at \quad t\\)
+\\(a_{t} : action \quad at \quad t\\)
+\\(s_{t} : state \quad at \quad t\\)
+\\(r_{t} : reward \quad at \quad t\\)
+
 \\(transition(s_{t}, a_{t}, s_{t+1}\\)
 
 ## Exploration
@@ -43,6 +46,7 @@ Simple exploration methods are the most practical. One of the simple methods is 
 - Policy
 
 \\(\pi : S \times A \to [0, 1]\\)
+
 \\(\pi(a|s) = P(a_{t}=a | s_{t}=s\\)
 
 Policy map gives the probability of taking action in state s. This means that the selected action in state s is determined by the policy.
@@ -51,6 +55,7 @@ Policy map gives the probability of taking action in state s. This means that th
 The state-value function \\(V_{\pi}(s)\\) is determined by the expected return with the state s and the policiy \\(pi\\). 
 
 \\(V_{pi}(s) = E[R] = E[\sum_{t=0}^{\infty}\gamma^{t}r_{t}|s_{0}=s\\)
+
 \\(R = \sum_{t=0}^{\infty}\gamma^{t}r_{t} : Return\\)
 
 - Action-value function
@@ -66,20 +71,21 @@ This may have some troubles related to the large number of policies and the larg
 Value function finds a policy maximizing the return by maintaining a set of estimates of expected returns. The optimal policy achieves the best expected return from any initial state, and can be found among the stationary policies. 
 The value of a policy is defined as
 
-\\(V^\pi(s) = E[R|s, \pi], R : the random return with following the policy \pi from the initial state s\\)
-\\(V^*(s) = {max}_{\pi}V^\pi(s) : the maximum possible value of the policy\\) 
+\\(V^\pi(s) = E[R|s, \pi], R \quad: \quad the \quad random \quad return \quad with \quad following \quad the policy \quad \pi \quad from \quad the \quad initial \quad state \quad s\\)
+
+\\(V^*(s) = {max}_{\pi}V^\pi(s) : the \quad maximum \quad possible \quad value \quad of \quad the \quad policy\\) 
 
 More than the state-value function, action-values are useful. 
 
-\\(Q^\pi(s, a) = E[R|s, a, \pi], R : the random return with fist taking action a\\)
-\\(Q^* : the optimal action-value function\\)
+\\(Q^\pi(s, a) = E[R|s, a, \pi], R : \quad the \quad random \quad return \quad with \quad fist \quad taking \quad action \quad a\\)
+\\(Q^* : the \quad optimal \quad action-value \quad function\\)
 
 To get the optimal action-value function, value iteration and policy interation are used. Both compute a sequence of action-value function Q, and converge to the optimal action-value function with function approximation techniques.
 
 - Policy Iteration : consists of policy evaluation and policy improvement.
 	- Monte Calo Methods : Monte Calo Method is used for policy evaluation. Given a stationary, deterministic policy, it computes the function values of the action-value function for all state-action pairs(s, a). With the calculations, it computes the estimation of Q.
 	- For policy improvement, greedy policy methods have many problems. To overcome the problems, Temporal Difference(TD) and Function Approximation methods are used. The function approximation method maps a finite-dimensinal vector to each state-action pair with some weights. 
-	\\(Q(s,a) = \sum_{i=1}^d\theta_i\phi_i(s, a), \theta: weight, \phi(s, a): the vector mapped to state-action pair\\)
+	\\(Q(s,a) = \sum_{i=1}^d\theta_i\phi_i(s, a), \quad \theta:  \quad weight, \quad \phi(s, a): \quad the \quad vector \quad mapped \quad to \quad state-action \quad pair\\)
 
 - Value Iteratin : refer [Q-learning]("https://en.wikipedia.org/wiki/Q-learning"){: target="_blank"}
 
