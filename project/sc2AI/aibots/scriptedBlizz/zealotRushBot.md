@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[back](./scriptedblizzMain){: .btn.btn-default}
+[back](./sc2APItemplate){: .btn.btn-default}
 
 # Basic Scripted AI(Zealot Rush Bot)
 

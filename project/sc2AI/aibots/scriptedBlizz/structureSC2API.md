@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-[back](./scriptedblizzMain){: .btn.btn-default}
+[back](../../sc2ai){: .btn.btn-default} 
+[Get Started with SC2 API Template](./sc2APItemplate){: .btn.btn-default}
 
 # The Project Structure of SC2 API
 

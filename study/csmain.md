@@ -1,12 +1,16 @@
 ---
 layout: default
 ---
-[back](./smain){: .btn.btn-default}
+[back](./csmain){: .btn.btn-default}
 
 # Study
 1. Team Work
 	- [Git & GitHub](./TeamW/github)
 	- [Docker](./TeamW/docker1)
+
+1. Machine Learning
+	- [Machine Learning Basic](./ML/basic)
+	- [Reinforcement Learning Basic](./ML/reinforcementLearningbasic)
  
 1. Data Structure & Algorithm
 	- [Data Structure](./)
