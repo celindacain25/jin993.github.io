@@ -5,8 +5,7 @@ layout: default
 
 # Basic Scripted AI(Zealot Rush Bot)
 
-[Blizzard SC2 API Tutorial Link](https://github.com/Blizzard/s2client-api/blob/master/
-docs/tutorial1.md){: target="_blank"}
+[Blizzard SC2 API Tutorial Link](https://github.com/Blizzard/s2client-api/blob/master/docs/tutorial1.md){: target="_blank"}
 
 Now, it's time to build our own bot. For this, I used Windows and Visual Studio. At the very first, we need to write scripts. In Blizzard tutiral, they added codes in "tutorial.cc". However, I recommend to add separated files for bots. For convenience, I added "jinBot.h" and "jinBot.cc" files in "sc2client-api/examples/common" since CMake add automatically files in common folder as header and source file of each example. 
 
@@ -182,4 +181,4 @@ These codes run two Starcraft II and make bots be against each other. Congratula
 	});
 
 
-The full source codes are available [here](https://github.com/jin993/sc2API_bot){: target="_blank"}
+The full source codes are available [here](https://github.com/jin993/SC2_bot/tree/master/blizzAPI/scripted){: target="_blank"}
