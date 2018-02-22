@@ -27,7 +27,7 @@ Reinforcement learning is proper for the problems about a long-term versus short
 
 \\(A : a \quad set \quad of \quad actions \quad of \quad the \quad agent\\)
 
-\\(P_{a}(s, s') = P_{r}(S_{t+1}=s'|s_{t}=s, a_{t}=a) : Probability \quad oftransition \quad from \quad state \quad s \quad to \quad state \quad s'\\)
+\\(P_{a}(s, s') = P_{r}(S_{t+1}=s' \mid s_{t}=s, a_{t}=a) : Probability \quad oftransition \quad from \quad state \quad s \quad to \quad state \quad s'\\)	
 
 \\(R_{a}(s, s') : immediate reward after transition from s to s'\\)
 
@@ -41,7 +41,7 @@ Reinforcement learning is proper for the problems about a long-term versus short
 
 \\(r_{t} : reward \quad at \quad t\\)
 
-\\(transition(s_{t}, a_{t}, s_{t+1}\\)
+\\(transition(s_{t}, a_{t}, s_{t+1})\\)
 
 ## Exploration
 
@@ -53,14 +53,14 @@ Simple exploration methods are the most practical. One of the simple methods is 
 
 \\(\pi : S \times A \to [0, 1]\\)
 
-\\(\pi(a|s) = P(a_{t}=a | s_{t}=s\\)
+\\(\pi(a \mid s) = P(a_{t}=a \mid s_{t}=s\\)
 
 Policy map gives the probability of taking action in state s. This means that the selected action in state s is determined by the policy.
 
 - State-value function 
 The state-value function \\(V_{\pi}(s)\\) is determined by the expected return with the state s and the policiy \\(\pi\\). 
 
-\\(V_{pi}(s) = E[R] = E[\sum_{t=0}^{\infty}\gamma^{t}r_{t}|s_{0}=s\\)
+\\(V_{pi}(s) = E[R] = E[\sum_{t=0}^{\infty}\gamma^{t}r_{t} \mid s_{0}=s\\)
 
 \\(R = \sum_{t=0}^{\infty}\gamma^{t}r_{t} : Return\\)
 
@@ -82,7 +82,7 @@ The value of a policy is defined as
 
 More than the state-value function, action-values are useful. 
 
-\\(Q^\pi(s, a) = E[R|s, a, \pi], R : \quad the \quad random \quad return \quad with \quad fist \quad taking \quad action \quad a\\)
+\\(Q^\pi(s, a) = E[R \mid s, a, \pi], R : \quad the \quad random \quad return \quad with \quad fist \quad taking \quad action \quad a\\)
 \\(Q^* : the \quad optimal \quad action-value \quad function\\)
 
 To get the optimal action-value function, value iteration and policy interation are used. Both compute a sequence of action-value function Q, and converge to the optimal action-value function with function approximation techniques.
